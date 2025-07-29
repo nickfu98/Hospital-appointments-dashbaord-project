@@ -25,10 +25,10 @@ Equip hospital administrators and operations stakeholders with a dynamic tool to
     - Appointment Status
     - Doctor
   - **Key visualizations:**
-    - **Total Revenue by Hospital Branch and Treatment Type**
-    - **Total Revenue by Treatment Type**
-    - **Daily No-Show Rates**
-    - **Appointment Status Breakdown**
+    - Total Revenue by Hospital Branch and Treatment Type
+    - Total Revenue by Treatment Type
+    - Daily No-Show Rates
+    - Appointment Status Breakdown
 
 ---
 
