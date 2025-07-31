@@ -80,16 +80,16 @@ Equip hospital administrators and operations stakeholders with a dynamic tool to
 --- 
 
 ## Key Takeaways and Recommendations
-  1. Westside Clinic is the top revenue generating branch, especially from Physiotherapy
+  **1. Westside Clinic is the top revenue generating branch, especially from Physiotherapy**
     - Continue to invest in equipment and staff capacity at Westside Clinic to maintain growth.
     - Replicate successful treatment practices and offerings at Central Hospital and Eastside Clinic to balance load and increase revenue at those branches as well.
        - Drive X-Ray campaigns at Eastside and Westside Clinics to help close the revenue gap with Central Hospital.
     - Prioritize ECGs and Physiotherapy across the board for marketing campaigns and monitor demand to reduce issues providing these treatments.
-  2. January, October, and June have the highest no-show rates. Reducing no-show rates should be a top priority
+ **2. January, October, and June have the highest no-show rates. Reducing no-show rates should be a top priority**
     - Introduce automated reminder systems (text messages, emails, and calls) 24-72 hours before appointments to ensure patients are being notified of upcoming appointments.
     - Create standby waitlists for doctors with high no-show rates to fill cancellations and last-minute openings.
     - Identify reasons for no-show rate spikes in January, October, and June (seasonal, staffing gaps, location-based factors, etc).
-  3. David Jones and Sarah Smith have the highest no-show rates among doctors
+**3. David Jones and Sarah Smith have the highest no-show rates among doctors**
     - Reinforce automated reminder systems stated above, especially for these doctors.
     - Provide training to front desk staff and use patient surveys to increase patient commitment and understanding.
 
