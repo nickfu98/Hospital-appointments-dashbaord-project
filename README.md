@@ -44,8 +44,12 @@ Equip hospital administrators and operations stakeholders with a dynamic tool to
 
 ## Questions Answered
   - Which treatments are the highest earning over time?
+      - MRIs, X-Rays, and Chemotherapies were the highest earning treatments overall.
   - Which doctors or hospital branches have the highest no-show rates?
-  - How does appointment status trend over time and by hospital branch?
+    - Central Hospital(31%) had the highest no-show rate wheras Eastside Clinic(21%) had the lowest.
+    - The doctors with the highest no-show rates were David Jones(36%) and Sarah Smith(35%), whereas Jane Davis(5%) and Robert Davis(15%) had the lowest.
+  - How do no-whos trend over time?
+    - There is no clear pattern throughout the year however the average no-show rate for the year is 26%. February(40%), October(36%), and June(33%) have the highest no-show rates while March(16%), December(17%) April(20%), and August(20%) have the lowest.
   - Which hospital branches are generating the most revenue and from which treatments?
 
 --- 
