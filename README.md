@@ -58,16 +58,22 @@ Equip hospital administrators and operations stakeholders with a dynamic tool to
 
 <img width="1288" height="747" alt="top_grossing_hospital_branch" src="https://github.com/user-attachments/assets/fffdee68-63f3-4c5c-8f05-847fa3e44f80" />
 
+--
+
 2. How do no-shows trend over time?
   - The average no-show rate for the year is 26%. January (40%), October (36%), and June (33%) have the highest no-show rates while March (16%), December (17%), April (20%), and August (20%) have the lowest. January's high no-show rate may be attributed to holiday season disruptions and scheduling conflicts.
 
 <img width="1291" height="744" alt="January_highest_no_show_month" src="https://github.com/user-attachments/assets/bf72ebdf-fc53-4eb3-9576-763d0352919b" />
+
+--
 
 3. Which doctors or hospital branches have the highest no-show rates?
   - Central Hospital (31%) had the highest no-show rate, whereas Eastside Clinic (21%) had the lowest.
   - The doctors with the highest no-show rates were David Jones (36%) and Sarah Smith (35%), whereas Jane Davis (5%) and Robert Davis (15%) had the lowest. David Jones and Sarah Smith are both doctors at Central Hospital, contributing to the top no-show rates among branches and doctors.
 
 <img width="1284" height="746" alt="doctors_highest_no_show" src="https://github.com/user-attachments/assets/84c1e26a-5363-41ce-9815-8d2d7f9fc2fa" />
+
+--
 
 4. Which treatments are the highest earning over time on **completed** appointments?
   - Physiotherapy, Chemotherapy, and MRIs were the highest earning treatments overall.
