@@ -6,8 +6,8 @@ This interactive Excel dashboard provides insights into hospital appointment per
 ---
 
 ## Data Summary
-This dashboard uses a synthetic dataset detailing 200 appointment records from 2023 including 5 tables:
-  - `appointments
+This dashboard uses a synthetic dataset detailing 200 appointment records from 2023 including appointment status, treatment types, doctor, branch, and revenue from the following tables:
+  - `appointments`
   - `patients`
   - `doctors`
   - `treatments`
@@ -63,7 +63,7 @@ Equip hospital administrators and operations stakeholders with a dynamic tool to
 
   
   - How do no-shows trend over time?
-    - The average no-show rate for the year is 26%. January (40%), October (36%), and June (33%) have the highest no-show rates while March (16%), December (17%), April (20%), and August (20%) have the lowest. January's high no-show rate could be a result of the holidays and new year scheduling conflicts.
+    - The average no-show rate for the year is 26%. January (40%), October (36%), and June (33%) have the highest no-show rates while March (16%), December (17%), April (20%), and August (20%) have the lowest. January's high no-show rate may be attributed to holiday season disruptions and scheduling conflicts.
   - Which hospital branches are generating the most revenue and from which treatments?
 
 <img width="1291" height="744" alt="January_highest_no_show_month" src="https://github.com/user-attachments/assets/bf72ebdf-fc53-4eb3-9576-763d0352919b" />
@@ -78,7 +78,7 @@ Equip hospital administrators and operations stakeholders with a dynamic tool to
   1. Westside Clinic is the top revenue generating branch, especially from Physiotherapy
     - Continue to invest in equipment and staff capacity at Westside Clinic to maintain growth.
     - Replicate successful treatment practices and offerings at Central Hospital and Eastside Clinic to balance load and increase revenue at those branches as well.
-       - Drive X-Ray campaigns at Eastside and Westside Clinics to bring Eastside and Westside X-Ray revenues closer to Central's levels.
+       - Drive X-Ray campaigns at Eastside and Westside Clinics to help close the revenue gap with Central Hospital.
     - Prioritize ECGs and Physiotherapy across the board for marketing campaigns and monitor demand to reduce issues providing these treatments.
   2. January, October, and June have the highest no-show rates. Reducing no-show rates should be a top priority
     - Introduce automated reminder systems (text messages, emails, and calls) 24-72 hours before appointments to ensure patients are being notified of upcoming appointments.
