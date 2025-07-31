@@ -75,14 +75,14 @@ Equip hospital administrators and operations stakeholders with a dynamic tool to
 
 
 
-**4. Which treatments are the highest earning over time on **completed** appointments?**
+**4. Which treatments are the highest earning over time on completed appointments?**
   - Physiotherapy, Chemotherapy, and MRIs were the highest earning treatments overall.
 --- 
 
 ## Key Takeaways and Recommendations
   **1. Westside Clinic is the top revenue generating branch, especially from Physiotherapy**
     - Continue to invest in equipment and staff capacity at Westside Clinic to maintain growth.
-    - Replicate successful treatment practices and offerings at Central Hospital and Eastside Clinic to balance load and increase revenue at those branches as well.
+    - Replicate hihg-performing treatment offerings at Central Hospital and Eastside Clinic to increase revenue and reduce bottlenecks.
        - Drive X-Ray campaigns at Eastside and Westside Clinics to help close the revenue gap with Central Hospital.
     - Prioritize ECGs and Physiotherapy across the board for marketing campaigns and monitor demand to reduce issues providing these treatments.
     
