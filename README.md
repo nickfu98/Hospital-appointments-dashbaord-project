@@ -51,10 +51,9 @@ Equip hospital administrators and operations stakeholders with a dynamic tool to
     - There is no clear pattern throughout the year however the average no-show rate for the year is 26%. February (40%), October (36%), and June (33%) have the highest no-show rates while March (16%), December (17%), April (20%), and August (20%) have the lowest.
   - Which hospital branches are generating the most revenue and from which treatments?
     - Westside Clinic generates the most revenue ($47,981) on **completed** appointments, primarily from Physiotherapy appointments. Central Hospital ($40,257) and Eastside Clinic ($35,861) generate less revenue overall, with ECGs (Central) and MRIs (Eastside) being their top grossing treatments. Chemotherapy is the 2nd highest grossing treatment for Eastside and Westside Clinics, but the lowest for Central Hospital. 
-<img width="1290" height="746" alt="top_grossing_hospital_branch" src="https://github.com/user-attachments/assets/24c09097-232d-4d2a-bb39-ddd5705f4ec9" />
 
+<img width="1288" height="747" alt="top_grossing_hospital_branch" src="https://github.com/user-attachments/assets/fffdee68-63f3-4c5c-8f05-847fa3e44f80" />
 
-  
 --- 
 
 ## Key Takeaways and Recommendations
