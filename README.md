@@ -1,5 +1,5 @@
 # Hospital Appointment Dashboard - Excel Project
-This is an interactive Excel dashboard provides insights into hospital appointment performance and operational trends. Stakeholders can filter data based on appointment dates, hospital branch, insurance provider, appointment status, and individual doctors. This dashboard allows stakeholders to monitor patterns in revenue, treatment-breakdowns and no-show rates.\\
+This is an interactive Excel dashboard provides insights into hospital appointment performance and operational trends. Stakeholders can filter data based on appointment dates, hospital branch, insurance provider, appointment status, and individual doctors. This dashboard allows stakeholders to monitor patterns in revenue, treatment-breakdowns and no-show rates.
 
 
 <img width="1286" height="742" alt="Screenshot 2025-07-29 124620" src="https://github.com/user-attachments/assets/72bf132a-c1c9-4b5f-8eb6-0f3a0a9f568e" />
