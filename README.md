@@ -2,7 +2,8 @@
 This is an interactive Excel dashboard provides insights into hospital appointment performance and operational trends. Stakeholders can filter data based on appointment dates, hospital branch, insurance provider, appointment status, and individual doctors. This dashboard allows stakeholders to monitor patterns in revenue, treatment-breakdowns and no-show rates.
 
 
-<img width="1286" height="742" alt="Screenshot 2025-07-29 124620" src="https://github.com/user-attachments/assets/72bf132a-c1c9-4b5f-8eb6-0f3a0a9f568e" />
+<img width="1292" height="749" alt="Screenshot 2025-07-31 103002" src="https://github.com/user-attachments/assets/ae7b4be5-f1e9-4c1e-ad3f-a4fae2ef993a" />
+
 
 ---
 
