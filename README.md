@@ -1,9 +1,7 @@
 # Hospital Appointment Dashboard - Excel Project
 This interactive Excel dashboard provides insights into hospital appointment performance and operational trends. Stakeholders can filter data based on appointment dates, hospital branch, insurance provider, appointment status, and individual doctors. This dashboard allows stakeholders to monitor patterns in revenue, treatment breakdowns and no-show rates.
 
-
-<img width="1292" height="749" alt="Screenshot 2025-07-31 103002" src="https://github.com/user-attachments/assets/ae7b4be5-f1e9-4c1e-ad3f-a4fae2ef993a" />
-
+<img width="1292" height="749" alt="Hospital_dashboard_overview" src="https://github.com/user-attachments/assets/bae1c3de-9bd0-4ca2-b664-779d3009df1e" />
 
 ---
 
@@ -53,6 +51,7 @@ Equip hospital administrators and operations stakeholders with a dynamic tool to
     - There is no clear pattern throughout the year however the average no-show rate for the year is 26%. February (40%), October (36%), and June (33%) have the highest no-show rates while March (16%), December (17%), April (20%), and August (20%) have the lowest.
   - Which hospital branches are generating the most revenue and from which treatments?
     - Westside Clinic generates the most revenue ($47,981) on **completed** appointments, primarily from Physiotherapy appointments. Central Hospital ($40,257) and Eastside Clinic ($35,861) generate less revenue overall, with ECGs (Central) and MRIs (Eastside) being their top grossing treatments. Chemotherapy is the 2nd highest grossing treatment for Eastside and Westside Clinics, but the lowest for Central Hospital. 
+<img width="1290" height="746" alt="top_grossing_hospital_branch" src="https://github.com/user-attachments/assets/24c09097-232d-4d2a-bb39-ddd5705f4ec9" />
 
 
   
