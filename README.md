@@ -1,5 +1,5 @@
 # Hospital Appointment Dashboard - Excel Project
-This is an interactive Excel dashboard provides a look into hospital appointment performance and operational trends. Stakeholders can filter data based on appointment dates, hospital branch, insurance provider, appointment status, and individual doctors. This dashboard allows stakeholders to monitor pattertns in reveneue, treatment-breakdowns and no-show rates.\\
+This is an interactive Excel dashboard provides insights into hospital appointment performance and operational trends. Stakeholders can filter data based on appointment dates, hospital branch, insurance provider, appointment status, and individual doctors. This dashboard allows stakeholders to monitor patterns in revenue, treatment-breakdowns and no-show rates.\\
 
 
 <img width="1286" height="742" alt="Screenshot 2025-07-29 124620" src="https://github.com/user-attachments/assets/72bf132a-c1c9-4b5f-8eb6-0f3a0a9f568e" />
@@ -46,12 +46,13 @@ Equip hospital administrators and operations stakeholders with a dynamic tool to
   - Which treatments are the highest earning over time?
       - MRIs, X-Rays, and Chemotherapies were the highest earning treatments overall.
   - Which doctors or hospital branches have the highest no-show rates?
-    - Central Hospital(31%) had the highest no-show rate wheras Eastside Clinic(21%) had the lowest.
-    - The doctors with the highest no-show rates were David Jones(36%) and Sarah Smith(35%), whereas Jane Davis(5%) and Robert Davis(15%) had the lowest.
+    - Central Hospital (31%) had the highest no-show rate wheras Eastside Clinic(21%) had the lowest.
+    - The doctors with the highest no-show rates were David Jones (36%) and Sarah Smith (35%), whereas Jane Davis (5%) and Robert Davis (15%) had the lowest.
   - How do no-whos trend over time?
-    - There is no clear pattern throughout the year however the average no-show rate for the year is 26%. February(40%), October(36%), and June(33%) have the highest no-show rates while March(16%), December(17%) April(20%), and August(20%) have the lowest.
+    - There is no clear pattern throughout the year however the average no-show rate for the year is 26%. February (40%), October (36%), and June (33%) have the highest no-show rates while March (16%), December (17%) April (20%), and August (20%) have the lowest.
   - Which hospital branches are generating the most revenue and from which treatments?
-
+    - Central Hospital generates the most revenue, primarily from X-Rays, MRIs, and Chemotherapies, while Eastside Clinic and Westside Clinic generate considerably less revenue - chemotherapies being their top treatment. 
 --- 
 
-## Next Steps
+## Key Takeaways
+  - 
